@@ -9,14 +9,6 @@ Este repositório contém o código fonte e os recursos relacionados a um trabal
 - **Experimentos:** Realização de experimentos para avaliar o desempenho dos algoritmos em diferentes condições, como a presença de ruído nos dados e a utilização de transformações nos atributos.
 - **Análise de Resultados:** Análise detalhada dos resultados obtidos nos experimentos, incluindo a comparação entre diferentes abordagens e a interpretação dos pesos aprendidos pelos modelos.
 
-#### Estrutura do Código
-
-- **`linear_regression.py`:** Implementação da regressão linear.
-- **`logistic_regression.py`:** Implementação da regressão logística.
-- **`perceptron.py`:** Implementação do perceptron de uma camada.
-- **`utils.py`:** Funções utilitárias para geração de dados e avaliação de modelos.
-- **`experiment.py`:** Script principal para execução dos experimentos e análise de resultados.
-
 #### Como Utilizar
 
 1. Clonar este repositório em sua máquina local.
